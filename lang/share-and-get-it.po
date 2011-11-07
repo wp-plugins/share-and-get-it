@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Share & Get it\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-06 22:39+0100\n"
+"PO-Revision-Date: 2011-11-06 22:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: Share & Get it <contact@tweetandgetit.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it\n"
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:50
+#, fuzzy
+msgid "Share&Get it!"
+msgstr "Tweet & Get it !"
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:51
+msgid "Make your button"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:52
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin_list.php:131
+msgid "Manage your buttons"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:180
+msgid "Button name"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:181
+msgid "Shortcode"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:182
+msgid "File"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:183
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:209
+msgid "Edit"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:184
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:210
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:229
+msgid "Delete"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:228
+msgid "Actions"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:232
+msgid "Apply to selected"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:239
+msgid "Go to first page"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:240
+msgid "Go to previous page"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:245
+msgid "Go to page"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:249
+msgid "current page"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:255
+msgid "Go to next page"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:256
+msgid "Go to last page"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:343
+msgid "Your button is ready"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/engine.php:344
+msgid "copy / paste this code in your posts, pages and widgets"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit-plugin.php:36
+msgid " requires php 5 or a greater version to work."
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:5
+msgid "Update your button"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:26
+msgid "Create your button"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:52
+msgid "ex: Just downloaded my twitter background for free from http://viuu.co.uk @pointofviuu. Check it out!"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:99
+msgid "File "
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:100
+msgid " was uploaded successfully!"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:108
+msgid "There was an error during file upload"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:188
+msgid "Type your Twitter username without the"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:197
+msgid "Twitter username can't contain @ # -"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:205
+msgid "Name of your button shouldn't be empty"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:221
+msgid "Twitter user to follow or Fan page url"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:242
+msgid "Location of your file"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:247
+msgid "Share"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:254
+msgid "Following fields are required"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:308
+msgid "<b>Your Twitter username </b>(Optional)"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:311
+msgid "Ex: <span class='eximportant'>pointofviuu </span> <br />Enter the twitter account you want the user to follow in exchange of downloading your file. At the completion of the Share&Get it! process your visitor becomes follower of the Twitter account you defined."
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:316
+msgid "<b>Your Fan Page</b> (Optional)"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:319
+msgid ""
+"Ex: <span class='eximportant'>http://facebook.com/pointofviuu </span> <br />\n"
+"\t\t\t\t\t\t\t\tEnter the Facebook Fan Page URL for user to be fan of in exchange of downloading your file. At the completion of the Share&Get it! process your visitor becomes fan of the Fan Page you defined. "
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:325
+msgid "<b>Your Share </b> (Required)"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:337
+msgid "Write the tweet or Facebook Wall you want the user to send in exchange of downloading your file. This Post will be sent automatically each time a visitor completes the Share&Get it! process."
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:340
+msgid "Old file"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:347
+msgid "<b>Your file</b>"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:353
+msgid "Upload your file"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:358
+msgid "Loading"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:360
+msgid "OR ..."
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:366
+msgid "<b>The URL of your file</b> (Required if you don't want to upload your file)"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:369
+msgid "Enter the path of your file. "
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:374
+msgid "<b>Name of your button</b> (Required)"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:400
+msgid "About"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:401
+msgid "Help"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:404
+msgid ""
+"Share&Get it! is an automatic process to get Twitter followers and Facebook Fans in exchange of a downloadable file. Get your shortcodes by setting up your Share&Get it! button.\n"
+"Copy/paste the shortcode into posts, pages and widgets. \n"
+"Your Share&Get it! button will be immediately available to your visitors."
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:407
+msgid "Share&Get it! is fully recommended to share content such as: music, ebooks, photos, wallpapers, promotional codes, coupons, typography, CMS themes, videos, software, tutorials, web ressources, icons, PSD brushes..."
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:408
+msgid "Get a new Twitter follower or a Facebook fan with each download !"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:410
+msgid "HELP"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:412
+msgid "Contact us"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin.php:414
+msgid "FAQ"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin_list.php:134
+msgid "Create a new button"
+msgstr ""
+
+#: /Volumes/Rodriguez/DEV/shareandgetit/wp/share-and-get-it/shareandgetit_admin_list.php:159
+msgid "powered by"
+msgstr ""
+

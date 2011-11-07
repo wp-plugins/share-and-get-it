@@ -1,0 +1,19 @@
+
+#sidebar #search_widget #search_field {
+	line-height: 29px;
+}
+
+/* button icons */
+a.large_button span.button_content,
+a.small_button span.button_content {
+	*display: block;
+	*float: left;
+}
+a.large_button.view span.view_icon,
+a.large_button.arrow span.arrow_icon,
+a.large_button.external_link span.external_link_icon,
+a.small_button.view span.view_icon,
+a.small_button.arrow span.arrow_icon,
+a.small_button.external_link span.external_link_icon {
+	*float: left;
+}
